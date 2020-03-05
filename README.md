@@ -1,2 +1,1 @@
-# hectormiguel.github.io
-Hola
+# Hola
